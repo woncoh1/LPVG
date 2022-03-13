@@ -30,3 +30,5 @@ Timeless, muscle-memory infrastructure inspired by [Mike Levin](https://github.c
 Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for literate and exploratory programming. The desktop (stand-alone) version of JupyterLab is particularly useful since there is no need to use a web browser and open a new terminal window for Jupyter server.
 
 ## Git
+
+### GitHub
