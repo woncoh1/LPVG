@@ -2,7 +2,7 @@
 Timeless, muscle-memory infrastructure inspired by [Mike Levin](https://github.com/miklevin)
 
 ## Linux
-- Windows: [WSL2](https://docs.microsoft.com/en-us/windows/wsl/)
+- Windows: [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
 - MacOS: [Lima](https://github.com/lima-vm/lima)
 
 ## Python
