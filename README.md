@@ -1,5 +1,5 @@
 # Linux, Python, Vim and Git
-Timeless, muscle-memory infrastructure inspired by [Mike Levin](https://github.com/miklevin)
+Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklevin)
 
 ## Linux
 - Windows: [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
