@@ -25,7 +25,7 @@ Timeless, muscle-memory infrastructure inspired by [Mike Levin](https://github.c
 - Conda Environment
     - [The Usual Way](https://stackoverflow.com/a/53546634)
     - [The Easy Way](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)
-- Image
+- Docker Image
     - [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks)
     - [Saturn Cloud Images](https://github.com/saturncloud/images)
 
