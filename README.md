@@ -13,7 +13,7 @@ Timeless, muscle-memory infrastructure inspired by [Mike Levin](https://github.c
 ### Conda
 - [The Definitive Guide to Conda Environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
 - [Miniconda vs Anaconda](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
-- [`conda` vs `conda-forge`](https://stackoverflow.com/q/39857289)
+- [`conda-forge` vs `conda`](https://stackoverflow.com/q/39857289)
 - [Miniforge](https://github.com/conda-forge/miniforge/)
 
 
