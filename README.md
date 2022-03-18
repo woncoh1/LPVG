@@ -34,3 +34,9 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 ## Git
 
 ### GitHub
+
+## TODO
+- [Python Wheel](https://pythonwheels.com/) ([tutorial](https://realpython.com/python-wheels/))
+- Pandas
+- [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
+- nbdev
