@@ -7,8 +7,8 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 
 ## Python
 - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
-    - Environment: [Conda](https://docs.conda.io/en/latest/)
-    - Package & Dependency: [Poetry](https://python-poetry.org/)
+    - Environment: `venv` &rarr; [Conda](https://docs.conda.io/en/latest/)
+    - Package & Dependency: `pip` &rarr; [Poetry](https://python-poetry.org/)
 
 ### Conda
 - [The Definitive Guide to Conda Environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
