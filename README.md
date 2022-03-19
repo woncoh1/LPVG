@@ -40,3 +40,4 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - Pandas
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
 - nbdev
+- re
