@@ -9,7 +9,6 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
     - Environment: `venv` &rarr; [Conda](https://docs.conda.io/en/latest/)
         - [The Definitive Guide to Conda Environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
-        - [`conda` Command not Recognized in Windows](https://stackoverflow.com/a/44597801)
         - [Miniconda vs Anaconda](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
         - [Miniforge vs Miniconda](https://stackoverflow.com/q/60532678) ([`conda-forge` vs `conda`](https://stackoverflow.com/q/39857289))
         - [Miniforge](https://github.com/conda-forge/miniforge/) ([**Mambaforge**](https://github.com/conda-forge/miniforge/#mambaforge))
