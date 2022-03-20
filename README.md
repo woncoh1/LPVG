@@ -1,5 +1,5 @@
 # Linux, Python, Vim and Git
-Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklevin). The so-called canonical technologies responsible for covering 80 percent of all use cases with 20 percent of investable effort (the 80-20 rule). Personal infrastructure that is disruption-proof and obsolescence-resistant.
+Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklevin). The so-called canonical technologies responsible for covering 80 percent of all use cases using only 20 percent of investable effort (the 80-20 rule). Personal infrastructure that is disruption-proof and obsolescence-resistant.
 
 ## Linux
 - Windows: [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
