@@ -46,3 +46,6 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
 - nbdev
 - re
+- [ZeroMQ](https://zeromq.org/)
+- [rich](https://github.com/Textualize/rich)
+- [stockholm](https://github.com/kalaspuff/stockholm)
