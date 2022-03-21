@@ -41,6 +41,12 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 ### GitHub
 
 ## TODO
+- [QNAP](https://www.qnap.com)
+- [Minix](https://www.minix3.org/)
+    - [Arch](https://archlinux.org/)
+    - [Gentoo](https://www.gentoo.org/)
+- [LXD](https://linuxcontainers.org/lxd/introduction/)
+- [ZeroMQ](https://zeromq.org/)
 - [Wheel](https://pythonwheels.com/)
     - [Tutorial](https://realpython.com/python-wheels/)
 - [Pandas](https://pandas.pydata.org/)
@@ -50,6 +56,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
 - [nbdev](https://nbdev.fast.ai/)
 - [re](https://docs.python.org/3/library/re.html)
-- [ZeroMQ](https://zeromq.org/)
+
 - [rich](https://github.com/Textualize/rich)
 - [stockholm](https://github.com/kalaspuff/stockholm)
+- 
