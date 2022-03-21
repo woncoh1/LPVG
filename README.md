@@ -47,8 +47,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Book](https://github.com/wesm/pydata-book)
     - [Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
 - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
-- nbdev
-- re
+- [nbdev](https://nbdev.fast.ai/)
+- [re](https://docs.python.org/3/library/re.html)
 - [ZeroMQ](https://zeromq.org/)
 - [rich](https://github.com/Textualize/rich)
 - [stockholm](https://github.com/kalaspuff/stockholm)
