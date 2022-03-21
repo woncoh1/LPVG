@@ -41,7 +41,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 ### GitHub
 
 ## TODO
-- [Wheel](https://pythonwheels.com/) ([tutorial](https://realpython.com/python-wheels/))
+- [Wheel](https://pythonwheels.com/)
+    - [Tutorial](https://realpython.com/python-wheels/)
 - Pandas
     - [Docs](https://pandas.pydata.org/docs/)
     - [Book](https://github.com/wesm/pydata-book)
