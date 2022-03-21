@@ -43,7 +43,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 ## TODO
 - [Wheel](https://pythonwheels.com/)
     - [Tutorial](https://realpython.com/python-wheels/)
-- Pandas
+- [Pandas](https://pandas.pydata.org/)
     - [Docs](https://pandas.pydata.org/docs/)
     - [Book](https://github.com/wesm/pydata-book)
     - [Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
