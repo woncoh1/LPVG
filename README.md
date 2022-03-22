@@ -59,3 +59,5 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - [re](https://docs.python.org/3/library/re.html)
 - [rich](https://github.com/Textualize/rich)
 - [stockholm](https://github.com/kalaspuff/stockholm)
+- [Microsoft Playwright](https://github.com/microsoft/playwright)
+- [GNU Screen](https://www.gnu.org/software/screen/)
