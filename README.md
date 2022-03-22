@@ -46,6 +46,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Arch](https://archlinux.org/)
     - [Gentoo](https://www.gentoo.org/)
 - [LXD](https://linuxcontainers.org/lxd/introduction/)
+- [systemd](https://systemd.io/)
 - [ZeroMQ](https://zeromq.org/)
 - [Wheel](https://pythonwheels.com/)
     - [Tutorial](https://realpython.com/python-wheels/)
