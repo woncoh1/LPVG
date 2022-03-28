@@ -52,9 +52,10 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [systemd](https://systemd.io/)
 - Python
     - [Built-in Functions](https://docs.python.org/3/library/functions.html)
-        - dir
-        - help
-        - type
+        - globals()
+        - dir()
+        - help()
+        - type()
     - [Wheel](https://pythonwheels.com/)
         - [Tutorial](https://realpython.com/python-wheels/)
     - [Pandas](https://pandas.pydata.org/)
