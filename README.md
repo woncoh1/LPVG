@@ -72,3 +72,4 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [ZeroMQ](https://zeromq.org/)
     - [Microsoft Playwright](https://github.com/microsoft/playwright)
     - [GNU Screen](https://www.gnu.org/software/screen/)
+    - [FreeCAD](https://www.freecadweb.org/)
