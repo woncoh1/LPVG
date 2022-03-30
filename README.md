@@ -70,6 +70,6 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Data Science Notebooks](https://datasciencenotebook.org/)
 - Misc
     - [ZeroMQ](https://zeromq.org/)
+    - [FreeCAD](https://www.freecadweb.org/)
     - [Microsoft Playwright](https://github.com/microsoft/playwright)
     - [GNU Screen](https://www.gnu.org/software/screen/)
-    - [FreeCAD](https://www.freecadweb.org/)
