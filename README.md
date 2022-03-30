@@ -44,6 +44,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 ## TODO
 - Hardware
     - [QNAP](https://www.qnap.com)
+    - [Raspberry Pi](https://www.raspberrypi.org/)
 - *nix
     - [Minix](https://www.minix3.org/)
         - [Arch](https://archlinux.org/)
@@ -64,6 +65,9 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [re](https://docs.python.org/3/library/re.html)
     - [rich](https://github.com/Textualize/rich)
     - [stockholm](https://github.com/kalaspuff/stockholm)
+- Notebook
+    - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
+    - [Data Science Notebooks](https://datasciencenotebook.org/)
 - Misc
     - [ZeroMQ](https://zeromq.org/)
     - [Microsoft Playwright](https://github.com/microsoft/playwright)
