@@ -28,14 +28,20 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 - [Spacemacs](https://www.spacemacs.org/)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
-### JupyterLab
-Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for literate and exploratory programming. The desktop (stand-alone) version of JupyterLab is particularly useful since there is no need to use a web browser and open a new terminal window for Jupyter server.
+### Jupyter
 - Conda Environment
     - [The Usual Way](https://stackoverflow.com/a/53546634)
     - [The Easy Way](https://towardsdatascience.com/get-your-conda-environment-to-show-in-jupyter-notebooks-the-easy-way-17010b76e874)
 - Docker Image
     - [Jupyter Docker Stacks](https://github.com/jupyter/docker-stacks)
     - [Saturn Cloud Images](https://github.com/saturncloud/images)
+
+Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for literate and exploratory programming. The desktop (stand-alone) version of JupyterLab is particularly useful since there is no need to use a web browser and open a new terminal window for Jupyter server.
+
+- [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
+- [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)
+- [Saturn Cloud](https://saturncloud.io/)
+    - [Coiled](https://coiled.io/)
 
 ## Git
 
