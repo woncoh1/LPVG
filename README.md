@@ -46,6 +46,9 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 ## Git
 
 ### GitHub
+- Badges
+    - [Shields](https://shields.io/)
+    - [Badgen](https://badgen.net/)
 
 ## TODO
 - Hardware
