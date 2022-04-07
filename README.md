@@ -90,8 +90,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
             - [Material](https://github.com/squidfunk/mkdocs-material)
     - Configuration
         - environment.yml
-        - requirements.txt
-        - pyproject.toml
+        - requirements.txt (https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af)
+        - pyproject.toml (https://snarky.ca/what-the-heck-is-pyproject-toml/)
         - setup.cfg
         - setup.py
 - Notebook
