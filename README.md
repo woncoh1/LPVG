@@ -88,6 +88,12 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
             - [Material](https://bashtage.github.io/sphinx-material/)
         - [MkDocs](https://www.mkdocs.org/)
             - [Material](https://github.com/squidfunk/mkdocs-material)
+    - Configuration
+        - environment.yml
+        - requirements.txt
+        - pyproject.toml
+        - setup.cfg
+        - setup.py
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
