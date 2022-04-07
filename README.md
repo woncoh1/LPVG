@@ -78,6 +78,9 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [rich](https://github.com/Textualize/rich)
     - [PrettyTable](https://github.com/jazzband/prettytable)
     - [stockholm](https://github.com/kalaspuff/stockholm)
+    - [docs](https://realpython.com/documenting-python-code/#documentation-tools-and-resources)
+        - [Material for MkDocs](https://github.com/squidfunk/mkdocs-material)
+        - [Furo for Sphinx](https://github.com/pradyunsg/furo)
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
