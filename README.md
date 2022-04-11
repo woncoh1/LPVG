@@ -91,11 +91,14 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [MkDocs](https://www.mkdocs.org/)
             - [Material](https://github.com/squidfunk/mkdocs-material)
     - Configuration
-        - environment.yml: `conda`
-        - [requirements.txt](https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af)
-        - [pyproject.toml](https://snarky.ca/what-the-heck-is-pyproject-toml/)
+        - environment.yml
+        - requirements.txt
+            - https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af
+        - pyproject.toml
+            - https://snarky.ca/what-the-heck-is-pyproject-toml/
         - setup.cfg
-        - setup.py: nbdev template
+        - setup.py
+            - https://towardsdatascience.com/setuptools-python-571e7d5500f2
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
