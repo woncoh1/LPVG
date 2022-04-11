@@ -81,15 +81,13 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [PrettyTable](https://github.com/jazzband/prettytable)
     - [stockholm](https://github.com/kalaspuff/stockholm)
     - [docs](https://realpython.com/documenting-python-code/#documentation-tools-and-resources)
-        - Sphinx vs MkDocs
+    - [Sphinx](https://www.sphinx-doc.org/en/master/)
+        - [Furo](https://github.com/pradyunsg/furo)
+        - [myST](https://myst-parser.readthedocs.io/en/latest/)
+        - [Material](https://bashtage.github.io/sphinx-material/)
+        - vs MkDocs
             - [httpx](https://github.com/encode/httpx/discussions/1220)
             - [Hacker News](https://news.ycombinator.com/item?id=27283521)
-        - [Sphinx](https://www.sphinx-doc.org/en/master/)
-            - [Furo](https://github.com/pradyunsg/furo)
-            - [myST](https://myst-parser.readthedocs.io/en/latest/)
-            - [Material](https://bashtage.github.io/sphinx-material/)
-        - [MkDocs](https://www.mkdocs.org/)
-            - [Material](https://github.com/squidfunk/mkdocs-material)
     - Configuration
         - environment.yml
         - requirements.txt
