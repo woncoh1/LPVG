@@ -65,6 +65,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [systemd](https://systemd.io/)
 - Python
     - [Python Language Reference](https://docs.python.org/3/reference/)
+        - [Hitchhiker's Guide](https://docs.python-guide.org/)
     - [Python Standard Library](https://docs.python.org/3/library/)
         - [Built-in Functions](https://docs.python.org/3/library/functions.html)
     - [Wheel](https://pythonwheels.com/)
@@ -108,3 +109,4 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Google Fonts](https://fonts.google.com/)
         - [Google Icons](https://fonts.google.com/icons)
     - [Adblock Plus](https://namu.wiki/w/Adblock%20Plus)
+    - https://python-dependency-injector.ets-labs.org/tutorials/asyncio-daemon.html
