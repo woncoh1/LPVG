@@ -11,7 +11,7 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 - MacOS: [Lima](https://github.com/lima-vm/lima)
 
 ## Python
-- [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
+- [Python Management System: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
     - Environment: `venv` &rarr; [`conda`](https://docs.conda.io/en/latest/)
         - [The Definitive Guide to Conda Environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
             - [conda environment.yml + pip requirements.txt](https://stackoverflow.com/q/35245401)
@@ -59,6 +59,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Minix](https://www.minix3.org/)
         - [Arch](https://archlinux.org/)
         - [Gentoo](https://www.gentoo.org/)
+    - [Tiny Core Linux](http://tinycorelinux.net/)
+        - [QEMU](https://www.qemu.org/)
     - [LXD](https://linuxcontainers.org/lxd/introduction/)
     - [systemd](https://systemd.io/)
 - Python
@@ -89,11 +91,11 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [MkDocs](https://www.mkdocs.org/)
             - [Material](https://github.com/squidfunk/mkdocs-material)
     - Configuration
-        - environment.yml
-        - requirements.txt (https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af)
-        - pyproject.toml (https://snarky.ca/what-the-heck-is-pyproject-toml/)
+        - environment.yml: `conda`
+        - [requirements.txt](https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af)
+        - [pyproject.toml](https://snarky.ca/what-the-heck-is-pyproject-toml/)
         - setup.cfg
-        - setup.py
+        - setup.py: nbdev template
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
