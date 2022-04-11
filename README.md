@@ -12,7 +12,7 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 
 ## Python
 - [A Guide to Python Environment, Dependency and Package Management: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
-    - Environment: `venv` &rarr; [Conda](https://docs.conda.io/en/latest/)
+    - Environment: `venv` &rarr; [`conda`](https://docs.conda.io/en/latest/)
         - [The Definitive Guide to Conda Environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
             - [conda environment.yml + pip requirements.txt](https://stackoverflow.com/q/35245401)
         - [Miniconda vs Anaconda](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
@@ -20,7 +20,7 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
             - [conda-forge vs conda](https://stackoverflow.com/q/39857289)
         - [Miniforge](https://github.com/conda-forge/miniforge/) ([**Mambaforge**](https://github.com/conda-forge/miniforge/#mambaforge))
             - [Mamba](https://github.com/mamba-org/mamba) ([Micromamba](https://github.com/mamba-org/mamba#micromamba))
-    - Package & Dependency: `pip` &rarr; [Poetry](https://python-poetry.org/)
+    - Package & Dependency: `pip` &rarr; [`poetry`](https://python-poetry.org/)
 
 ## Vim
 - [Neovim](https://neovim.io/)
