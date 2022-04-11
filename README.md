@@ -3,8 +3,8 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 
 - Linux: operating system
 - Python: programming language
-- Vim: text editor
-- Git: version control system
+- Vim: text editor (IDE)
+- Git: version control
 
 ## Linux
 - Windows: [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
