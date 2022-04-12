@@ -98,6 +98,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - setup.cfg
         - setup.py
             - https://towardsdatascience.com/setuptools-python-571e7d5500f2
+    - [Dependency Injector](https://python-dependency-injector.ets-labs.org/)
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
@@ -109,4 +110,4 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Google Fonts](https://fonts.google.com/)
         - [Google Icons](https://fonts.google.com/icons)
     - [Adblock Plus](https://namu.wiki/w/Adblock%20Plus)
-    - https://python-dependency-injector.ets-labs.org/tutorials/asyncio-daemon.html
+    
