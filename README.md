@@ -13,7 +13,7 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 ## Python
 - [Python Management System: Conda + Poetry](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
     - Environment: `venv` &rarr; [`conda`](https://docs.conda.io/en/latest/)
-        - [The Definitive Guide to Conda Environments](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
+        - [Conda User Guide](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
             - [conda environment.yml + pip requirements.txt](https://stackoverflow.com/q/35245401)
         - [Miniconda vs Anaconda](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
         - [Miniforge vs Miniconda](https://stackoverflow.com/q/60532678)
