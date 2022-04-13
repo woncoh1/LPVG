@@ -104,6 +104,10 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Dependency Injector](https://python-dependency-injector.ets-labs.org/)
     - [Pendulum](https://pendulum.eustace.io/)
         - [Tutorial](https://towardsdatascience.com/pendulum-one-of-the-most-useful-python-libraries-you-have-ever-seen-e2ecc365c8c0)
+    
+    - https://holoviews.org/user_guide/Streaming_Data.html
+    - https://streamz.readthedocs.io/en/latest/dataframes.html
+    - https://colab.research.google.com/github/justinbois/bootcamp/blob/gh-pages/2021/lessons/l29_dashboards.ipynb
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
