@@ -68,7 +68,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [Hitchhiker's Guide](https://docs.python-guide.org/)
     - [Python Standard Library](https://docs.python.org/3/library/)
         - [Built-in Functions](https://docs.python.org/3/library/functions.html)
-    - Python Standard Packaging
+    - [Python Packaging User Guide](https://packaging.python.org/en/latest/)
         - [pip](https://pip.pypa.io/en/stable/)
         - [Wheel](https://pythonwheels.com/)
             - [Tutorial](https://realpython.com/python-wheels/)
