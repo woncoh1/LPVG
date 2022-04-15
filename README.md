@@ -119,4 +119,6 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Google Fonts](https://fonts.google.com/)
         - [Google Icons](https://fonts.google.com/icons)
     - [Adblock Plus](https://namu.wiki/w/Adblock%20Plus)
+    - [Customize GitHub's code font](https://alexsaveau.dev/blog/tips/github/customize-github-code-font)
+
     
