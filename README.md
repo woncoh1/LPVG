@@ -63,6 +63,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [QEMU](https://www.qemu.org/)
     - [LXD](https://linuxcontainers.org/lxd/introduction/)
     - [systemd](https://systemd.io/)
+- HTML
+- SQL
 - Python
     - [Python Language Reference](https://docs.python.org/3/reference/)
         - [Hitchhiker's Guide](https://docs.python-guide.org/)
