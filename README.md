@@ -64,7 +64,10 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [LXD](https://linuxcontainers.org/lxd/introduction/)
     - [systemd](https://systemd.io/)
 - HTML
+    - [htmx](https://htmx.org/)
 - SQL
+    - SQLite
+    - PostgreSQL
 - Python
     - [Python Language Reference](https://docs.python.org/3/reference/)
         - [Hitchhiker's Guide](https://docs.python-guide.org/)
