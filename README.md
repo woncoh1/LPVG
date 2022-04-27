@@ -42,7 +42,6 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
 - [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)
 - [Saturn Cloud](https://saturncloud.io/)
-    - [Coiled](https://coiled.io/)
 
 ## Git
 
@@ -96,25 +95,23 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [Furo](https://github.com/pradyunsg/furo)
         - [myST](https://myst-parser.readthedocs.io/en/latest/)
         - [Material](https://bashtage.github.io/sphinx-material/)
-        - vs MkDocs
+        - MkDocs
             - [httpx](https://github.com/encode/httpx/discussions/1220)
             - [Hacker News](https://news.ycombinator.com/item?id=27283521)
     - Configuration
         - environment.yml
-        - requirements.txt
-            - https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af
-        - pyproject.toml
-            - https://snarky.ca/what-the-heck-is-pyproject-toml/
+        - [requirements.txt](https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af)
+        - [pyproject.toml](https://snarky.ca/what-the-heck-is-pyproject-toml/)
         - setup.cfg
-        - setup.py
-            - https://towardsdatascience.com/setuptools-python-571e7d5500f2
+        - [setup.py](https://towardsdatascience.com/setuptools-python-571e7d5500f2)
     - [Dependency Injector](https://python-dependency-injector.ets-labs.org/)
     - [Pendulum](https://pendulum.eustace.io/)
         - [Tutorial](https://towardsdatascience.com/pendulum-one-of-the-most-useful-python-libraries-you-have-ever-seen-e2ecc365c8c0)
     - [Tornado](https://www.tornadoweb.org/en/stable/)
-    - https://holoviews.org/user_guide/Streaming_Data.html
-    - https://streamz.readthedocs.io/en/latest/dataframes.html
-    - https://colab.research.google.com/github/justinbois/bootcamp/blob/gh-pages/2021/lessons/l29_dashboards.ipynb
+    - Visualize Stream
+        - [streamz](https://streamz.readthedocs.io/en/latest/plotting.html)
+        - [HoloViews](https://holoviews.org/user_guide/Streaming_Data.html)
+        - [Panel](https://colab.research.google.com/github/justinbois/bootcamp/blob/gh-pages/2021/lessons/l29_dashboards.ipynb)
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
