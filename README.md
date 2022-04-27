@@ -129,4 +129,5 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Customize GitHub's code font](https://alexsaveau.dev/blog/tips/github/customize-github-code-font)
     - [Serverless Computing](https://en.wikipedia.org/wiki/Serverless_computing)
     - [API Throttling and Rate Limiting](https://beabetterdev.com/2020/12/12/what-is-api-throttling-and-rate-limiting/)
-    - https://www.baeldung.com/linux/bash-interactive-prompts
+    - [Baeldung Linux](https://www.baeldung.com/linux/)
+    - [Boolean Biotech](http://blog.booleanbiotech.com/)
