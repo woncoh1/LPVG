@@ -119,6 +119,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
 - Misc
+    - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) 
     - [ZeroMQ](https://zeromq.org/)
     - [FreeCAD](https://www.freecadweb.org/)
     - [Microsoft Playwright](https://github.com/microsoft/playwright)
