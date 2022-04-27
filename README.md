@@ -65,6 +65,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [systemd](https://systemd.io/)
 - HTML
     - [htmx](https://htmx.org/)
+- Regex
+    - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
 - SQL
     - SQLite
     - PostgreSQL
