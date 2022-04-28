@@ -123,6 +123,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [GNU Screen](https://www.gnu.org/software/screen/)
     - [Google Fonts](https://fonts.google.com/)
         - [Google Icons](https://fonts.google.com/icons)
+        - [Bootstrap Icons](https://icons.getbootstrap.com/)
     - [Adblock Plus](https://namu.wiki/w/Adblock%20Plus)
     - [Customize GitHub's code font](https://alexsaveau.dev/blog/tips/github/customize-github-code-font)
     - [Serverless Computing](https://en.wikipedia.org/wiki/Serverless_computing)
