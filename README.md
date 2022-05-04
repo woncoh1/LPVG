@@ -69,6 +69,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - SQL
     - SQLite
     - PostgreSQL
+    - [lbis](https://ibis-project.org/docs/dev/)
 - Python
     - [Python Language Reference](https://docs.python.org/3/reference/)
         - [Hitchhiker's Guide](https://docs.python-guide.org/)
