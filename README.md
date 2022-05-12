@@ -122,6 +122,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [FreeCAD](https://www.freecadweb.org/)
     - [Microsoft Playwright](https://github.com/microsoft/playwright)
     - [GNU Screen](https://www.gnu.org/software/screen/)
+        - [tmux](https://github.com/tmux/tmux/wiki)
     - [Google Fonts](https://fonts.google.com/)
         - [Google Icons](https://fonts.google.com/icons)
         - [Bootstrap Icons](https://icons.getbootstrap.com/)
