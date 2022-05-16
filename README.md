@@ -113,6 +113,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [streamz](https://streamz.readthedocs.io/en/latest/plotting.html)
         - [HoloViews](https://holoviews.org/user_guide/Streaming_Data.html)
         - [Panel](https://colab.research.google.com/github/justinbois/bootcamp/blob/gh-pages/2021/lessons/l29_dashboards.ipynb)
+- Lisp (Python:Lisp=Yang:Yin)
+    - Emacs
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
