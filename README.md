@@ -25,7 +25,8 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 ## Vim
 - [Neovim](https://neovim.io/)
 
-### Emacs
+### [Emacs](https://www.reddit.com/r/emacs/comments/6s6uyr/emacs_evil_or_spacemacs/)
+- [Evil](https://github.com/emacs-evil/evil)
 - [Spacemacs](https://www.spacemacs.org/)
 - [Doom Emacs](https://github.com/hlissner/doom-emacs)
 
