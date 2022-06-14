@@ -136,3 +136,4 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Baeldung Linux](https://www.baeldung.com/linux/)
     - [Boolean Biotech](http://blog.booleanbiotech.com/)
     - [Mail Avenger](https://www.mailavenger.org/)
+    - [Polars](https://www.pola.rs/)
