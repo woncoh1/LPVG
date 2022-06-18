@@ -12,7 +12,7 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 
 ## Python
 - [Python Management System](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
-    - Environment Manager: [`conda`](https://docs.conda.io/en/latest/)
+    - [`conda`](https://docs.conda.io/en/latest/): environment manager
         - [Conda User Guide](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
             - [conda environment.yml + pip requirements.txt](https://stackoverflow.com/q/35245401)
         - [Miniconda vs Anaconda](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
@@ -20,8 +20,8 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
             - [conda-forge vs conda](https://stackoverflow.com/q/39857289)
         - [**Mambaforge**](https://github.com/conda-forge/miniforge/#mambaforge) ([Miniforge](https://github.com/conda-forge/miniforge/))
             - [Micromamba](https://github.com/mamba-org/mamba#micromamba) ([Mamba](https://github.com/mamba-org/mamba))
-    - Package Installer: [`pip`](https://pip.pypa.io/en/stable/)
-    - Dependency Resolver: [`poetry`](https://python-poetry.org/)
+    - [`pip`](https://pip.pypa.io/en/stable/): package installer
+    - [`poetry`](https://python-poetry.org/): dependency resolver
 
 ## Vim
 - [Neovim](https://neovim.io/)
