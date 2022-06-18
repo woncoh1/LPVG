@@ -108,6 +108,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [pyproject.toml](https://snarky.ca/what-the-heck-is-pyproject-toml/)
         - setup.cfg
         - [setup.py](https://towardsdatascience.com/setuptools-python-571e7d5500f2)
+        - [setup.ini](https://docs.python.org/3/library/configparser.html)
     - [Dependency Injector](https://python-dependency-injector.ets-labs.org/)
     - [Pendulum](https://pendulum.eustace.io/)
         - [Tutorial](https://towardsdatascience.com/pendulum-one-of-the-most-useful-python-libraries-you-have-ever-seen-e2ecc365c8c0)
