@@ -142,3 +142,4 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Mail Avenger](https://www.mailavenger.org/)
     - [Polars](https://www.pola.rs/)
     - [Dark](https://darklang.com/)
+    - [FinRL](https://medium.datadriveninvestor.com/finrl-meta-a-universe-of-near-real-market-en-vironments-for-data-driven-financial-reinforcement-e1894e1ebfbd)
