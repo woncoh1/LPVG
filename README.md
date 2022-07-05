@@ -13,7 +13,7 @@ Timeless, muscle-memory tools inspired by [Mike Levin](https://github.com/miklev
 ## Python
 - [Python Management System](https://ealizadeh.com/blog/guide-to-python-env-pkg-dependency-using-conda-poetry)
     - [`conda`](https://docs.conda.io/en/latest/): environment manager
-        - [Conda User Guide](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
+        - [Conda Guide](https://towardsdatascience.com/a-guide-to-conda-environments-bc6180fc533)
             - [conda environment.yml + pip requirements.txt](https://stackoverflow.com/q/35245401)
         - [Miniconda vs Anaconda](https://www.reddit.com/r/Python/comments/lvr85n/i_want_to_use_python_commercially_for_free_is/)
         - [Miniforge vs Miniconda](https://stackoverflow.com/q/60532678)
@@ -56,7 +56,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - Hardware
     - [QNAP](https://www.qnap.com)
     - [Raspberry Pi](https://www.raspberrypi.org/)
-- *nix (Multics, Unix, Minix, Linux, etc)
+- Nix (Multics, Unix, Minix, Linux, etc)
     - [Minix](https://www.minix3.org/)
         - [Arch](https://archlinux.org/)
         - [Gentoo](https://www.gentoo.org/)
