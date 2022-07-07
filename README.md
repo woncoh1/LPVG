@@ -89,6 +89,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [Beyond Pandas](https://github.com/astrojuanlu/talk-dataframes)
     - [fast.ai](https://www.fast.ai/)
     - [nbdev](https://nbdev.fast.ai/)
+    - [nbprocess](https://github.com/fastai/nbprocess)
     - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
     - [re](https://docs.python.org/3/library/re.html)
     - [rich](https://github.com/Textualize/rich)
