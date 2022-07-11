@@ -79,6 +79,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Python Standard Library](https://docs.python.org/3/library/)
         - [Built-in Functions](https://docs.python.org/3/library/functions.html)
     - [Python Packaging User Guide](https://packaging.python.org/en/latest/)
+        - [book](https://py-pkgs.org/)
         - [src](https://github.com/pypa/packaging.python.org/issues/320)
         - [src2](https://hynek.me/articles/testing-packaging/)
         - [sampleproject](https://github.com/pypa/sampleproject)
