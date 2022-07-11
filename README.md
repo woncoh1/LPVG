@@ -73,13 +73,13 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - PostgreSQL
     - [lbis](https://ibis-project.org/docs/dev/)
 - Python
-    - [Python Language Reference](https://docs.python.org/3/reference/)
-        - [Python Tutorial](https://docs.python.org/3/tutorial/)
+    - [Reference](https://docs.python.org/3/reference/)
+    - [Tutorial](https://docs.python.org/3/tutorial/)
         - [Hitchhiker's Guide](https://docs.python-guide.org/)
-    - [Python Standard Library](https://docs.python.org/3/library/)
+    - [Standard Library](https://docs.python.org/3/library/)
         - [Built-in Functions](https://docs.python.org/3/library/functions.html)
-    - [Python Packaging User Guide](https://packaging.python.org/en/latest/)
-        - [book](https://py-pkgs.org/)
+    - [Packaging User Guide](https://packaging.python.org/en/latest/)
+        - [Book](https://py-pkgs.org/)
         - [src](https://github.com/pypa/packaging.python.org/issues/320)
         - [src2](https://hynek.me/articles/testing-packaging/)
         - [sampleproject](https://github.com/pypa/sampleproject)
