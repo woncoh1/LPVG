@@ -94,6 +94,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [Beyond Pandas](https://github.com/astrojuanlu/talk-dataframes)
             - [lbis](https://ibis-project.org/docs/dev/)
             - [Polars](https://www.pola.rs/)
+            - [pyarrow](https://arrow.apache.org/docs/python/index.html)
     - [fast.ai](https://www.fast.ai/)
     - [nbdev](https://nbdev.fast.ai/)
     - [nbprocess](https://github.com/fastai/nbprocess)
