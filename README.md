@@ -105,6 +105,11 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [PrettyTable](https://github.com/jazzband/prettytable)
     - [stockholm](https://github.com/kalaspuff/stockholm)
     - [docs](https://realpython.com/documenting-python-code/#documentation-tools-and-resources)
+        - [markdown]()
+        - [reStructuredText](https://docutils.sourceforge.io/rst.html)
+            - [Sphinx](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)
+            - [Write the Docs](https://www.writethedocs.org/guide/writing/reStructuredText/)
+        - [myST]
     - [Sphinx](https://www.sphinx-doc.org/en/master/)
         - [Furo](https://github.com/pradyunsg/furo)
         - [myST](https://myst-parser.readthedocs.io/en/latest/)
