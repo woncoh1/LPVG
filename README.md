@@ -69,9 +69,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - Regex
     - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
 - SQL
-    - SQLite
-    - PostgreSQL
-    - [lbis](https://ibis-project.org/docs/dev/)
+    - [SQLite](https://www.sqlite.org/)
+    - [PostgreSQL](https://www.postgresql.org/)
 - Python
     - [Reference](https://docs.python.org/3/reference/)
     - [Tutorial](https://docs.python.org/3/tutorial/)
@@ -93,6 +92,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [Book](https://github.com/wesm/pydata-book)
         - [Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html)
         - [Beyond Pandas](https://github.com/astrojuanlu/talk-dataframes)
+            - [lbis](https://ibis-project.org/docs/dev/)
+            - [Polars](https://www.pola.rs/)
     - [fast.ai](https://www.fast.ai/)
     - [nbdev](https://nbdev.fast.ai/)
     - [nbprocess](https://github.com/fastai/nbprocess)
@@ -146,6 +147,5 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [Baeldung Linux](https://www.baeldung.com/linux/)
     - [Boolean Biotech](http://blog.booleanbiotech.com/)
     - [Mail Avenger](https://www.mailavenger.org/)
-    - [Polars](https://www.pola.rs/)
     - [Dark](https://darklang.com/)
     - [FinRL](https://medium.datadriveninvestor.com/finrl-meta-a-universe-of-near-real-market-en-vironments-for-data-driven-financial-reinforcement-e1894e1ebfbd)
