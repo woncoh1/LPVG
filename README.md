@@ -106,6 +106,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [re](https://docs.python.org/3/library/re.html)
     - [rich](https://github.com/Textualize/rich)
     - [PrettyTable](https://github.com/jazzband/prettytable)
+    - [tabulate](https://github.com/astanin/python-tabulate)
     - [stockholm](https://github.com/kalaspuff/stockholm)
     - [docs](https://realpython.com/documenting-python-code/#documentation-tools-and-resources)
         - [markdown](https://www.markdownguide.org/) (Web)
