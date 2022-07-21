@@ -141,6 +141,12 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - Notebook
     - [JupyterLab Desktop](https://github.com/jupyterlab/jupyterlab-desktop)
     - [Data Science Notebooks](https://datasciencenotebook.org/)
+- Figure
+    - https://r-graph-gallery.com/
+- Table
+    - https://www.ag-grid.com/
+    - https://perspective.finos.org/
+    - https://datatables.net/
 - Misc
     - [Awesome Awesomeness](https://github.com/bayandin/awesome-awesomeness) 
     - [ZeroMQ](https://zeromq.org/)
