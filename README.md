@@ -105,6 +105,7 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
     - [sqlitedict](https://github.com/RaRe-Technologies/sqlitedict)
     - [re](https://docs.python.org/3/library/re.html)
     - [rich](https://github.com/Textualize/rich)
+    - [tabulate](https://github.com/astanin/python-tabulate)
     - [PrettyTable](https://github.com/jazzband/prettytable)
     - [tabulate](https://github.com/astanin/python-tabulate)
     - [stockholm](https://github.com/kalaspuff/stockholm)
