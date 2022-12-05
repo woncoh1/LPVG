@@ -123,9 +123,9 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
             - [httpx](https://github.com/encode/httpx/discussions/1220)
             - [Hacker News](https://news.ycombinator.com/item?id=27283521)
     - Configuration
-        - [environment.yml](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html)
         - [requirements.txt](https://towardsdatascience.com/requirements-vs-setuptools-python-ae3ee66e28af)
         - [pyproject.toml](https://snarky.ca/what-the-heck-is-pyproject-toml/)
+        - [environment.yml](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html)
         - [setup.py vs setup.cfg](https://towardsdatascience.com/setuptools-python-571e7d5500f2)
         - [setup.ini](https://docs.python.org/3/library/configparser.html)
     - [Dependency Injector](https://python-dependency-injector.ets-labs.org/)
