@@ -128,6 +128,9 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
         - [environment.yml](https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/04-sharing-environments/index.html)
         - [setup.py vs setup.cfg](https://towardsdatascience.com/setuptools-python-571e7d5500f2)
         - [setup.ini](https://docs.python.org/3/library/configparser.html)
+    - Logging
+        - [logging](https://docs.python.org/3/library/logging.html)
+        - [loguru](https://github.com/Delgan/loguru)
     - [Dependency Injector](https://python-dependency-injector.ets-labs.org/)
     - [Pendulum](https://pendulum.eustace.io/)
         - [Tutorial](https://towardsdatascience.com/pendulum-one-of-the-most-useful-python-libraries-you-have-ever-seen-e2ecc365c8c0)
