@@ -45,6 +45,19 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 - [JupyterLite](https://jupyterlite.readthedocs.io/en/latest/)
 - [Saturn Cloud](https://saturncloud.io/)
 
+### Jupyterlab desktop (Windows)
+1. Install mambaforge: https://github.com/conda-forge/miniforge
+    - Add conda to PATH environment variable
+3. Install Jupyterlab desktop: https://github.com/jupyterlab/jupyterlab-desktop
+4. If you use OneDrive from non-English speaking country, follow this link to change the name of the "personal" folder to "Documents"
+5. Run powershell and execute the following commands:
+   ```
+   conda init powershell
+   conda create -n py310 python=3.10 jupyterlab
+   ```
+6. Run Jupterlab desktop, and set the default kernel path to `mambaforge/envs/py310/python.exe`
+7. Enjoy
+
 ## Git
 
 ### GitHub
