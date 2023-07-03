@@ -49,8 +49,8 @@ Mastering Vim takes a while and effort, so meanwhile we use JupyterLab for liter
 1. Install mambaforge: https://github.com/conda-forge/miniforge
     - Add conda to PATH environment variable
 3. Install Jupyterlab desktop: https://github.com/jupyterlab/jupyterlab-desktop
-4. If you use OneDrive from non-English speaking country, follow this link to change the name of the "personal" folder to "Documents"
-5. Run powershell and execute the following commands:
+4. If you use OneDrive from non-English speaking country, visit the following link to change the name of the "personal" folder to "Documents": https://support.microsoft.com/en-us/topic/operation-to-change-a-personal-folder-location-fails-in-windows-ffb95139-6dbb-821d-27ec-62c9aaccd720
+5. Run PowerShell and execute the following commands:
    ```
    conda init powershell
    conda create -n py310 python=3.10 jupyterlab
